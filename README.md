@@ -1,6 +1,6 @@
 ## Hi there, I'm Vladimir 👋
 
-### Professional 1C Enterprise and Dart/Flutter developer with 5 years of experience.
+### :rocket: Professional 1C Enterprise and Dart/Flutter developer with 5 years of experience :rocket:
 
 <!--
 **Ins3nsE/Ins3nsE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
